@@ -7,7 +7,7 @@
 > - 安装Python3.5 
 [Python3.5下载地址](https://www.python.org/ftp/python/3.5.4/python-3.5.4.exe)
 > - 下载Pygame
-[Pygame下载地址](https://bbuseruploads.s3.amazonaws.com/e2bbb438-1d63-4a1b-b6a2-61712d70f518/downloads/5d7ffbe3-b393-4bae-ad75-a2f7f22a1206/pygame-1.9.2-cp35-cp35m-win32.whl?Signature=5AdvdFqwcv2P2vYsC5344qzJMgA%3D&Expires=1543400050&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=jeHL1j62bs5P8cpkKCNtv0w9Vi7Ueo_p&response-content-disposition=attachment%3B%20filename%3D%22pygame-1.9.2-cp35-cp35m-win32.whl%22)
+[Pygame下载地址](https://bitbucket.org/pygame/pygame/downloads/pygame-1.9.2-cp35-cp35m-win32.whl)
 > - 安装Pygame
 > ```
 > python -m pip install --user pygame-1.9.2-cp35-cp35m-win32.whl
