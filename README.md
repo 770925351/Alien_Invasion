@@ -24,12 +24,16 @@
 > python3 setup.py build
 > sudo python3 setup.py install
 > ```
-## 3.操作简介
+## 3.游戏功能
+> - 可记录最高分和当前分
+> - 可记录当前飞船命数
+> - 可记录当前游戏等级
+## 4.操作简介
 > **p**  重新开始游戏
 > **↑↓←→** 上下左右移动飞船
 > **q** 退出游戏
 > **空格** 发射子弹
-## 4.代码结构
+## 5.代码结构
 - alien_invasion.py
 > 游戏的运行文件,包含总体的运行流程及框架
 - alien.py
@@ -50,8 +54,14 @@
 > 定义游戏操作
 - high_score.txt
 > 存储游戏历史最高分数
+## 6.小游戏截图
+![游戏截图1](https://github.com/770925351/Alien_Invasion/blob/master/screenshot/1.png)
 
-## 5.作者联系方式
+![游戏截图2](https://github.com/770925351/Alien_Invasion/blob/master/screenshot/2.png)
+
+![游戏截图3](https://github.com/770925351/Alien_Invasion/blob/master/screenshot/3.png)
+
+## 7.作者联系方式
 - QQ:770925351
 - 微信:tc770925351
 - 邮箱:770925351@qq.com
