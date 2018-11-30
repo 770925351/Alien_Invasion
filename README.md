@@ -56,11 +56,8 @@
 > 存储游戏历史最高分数
 ## 6.小游戏截图
 ![游戏截图1](https://github.com/770925351/Alien_Invasion/blob/master/screenshot/1.png)
-
 ![游戏截图2](https://github.com/770925351/Alien_Invasion/blob/master/screenshot/2.png)
-
 ![游戏截图3](https://github.com/770925351/Alien_Invasion/blob/master/screenshot/3.png)
-
 ## 7.作者联系方式
 - QQ:770925351
 - 微信:tc770925351
